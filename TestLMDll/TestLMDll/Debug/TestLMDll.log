@@ -1,0 +1,22 @@
+﻿  lsd.c
+  main.cpp
+d:\opencv2.2\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(107): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(108): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(116): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(118): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(128): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(355): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(317): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\j1ose\desktop\linematching-master\linematching-master\testlmdll\testlmdll\main.cpp(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  TestLMDll.vcxproj -> C:\Users\J1ose\Desktop\LineMatching-master\LineMatching-master\TestLMDll\Debug\TestLMDll.exe
